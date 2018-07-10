@@ -1,0 +1,23 @@
+body {
+	background-color: #ddd;
+	text-align: center;
+}
+
+canvas {
+	margin-left: 29%;
+	margin-right: 30%;
+}
+
+#content {
+	margin: -2px 718px
+}
+
+#keys {
+	font-size: 10px;
+	float: left;
+}
+
+#scores {
+	font-size: 10px;
+	float: right;
+}
